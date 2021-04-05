@@ -10,7 +10,7 @@ Primeiramente clone o projeto, depois rode o comando `npm install` dentro da pas
 
 ## Tecnologias utilizadas:
 
--react.js
--styled components
+-react.js <br>
+-styled components <br>
 -bootstrap 4
 
